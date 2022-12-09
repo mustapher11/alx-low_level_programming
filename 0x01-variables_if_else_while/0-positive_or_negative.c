@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- *This program checks whether the random value of integer n is
+ *main -Entry point
  *
- *positive, zero or negative.
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
