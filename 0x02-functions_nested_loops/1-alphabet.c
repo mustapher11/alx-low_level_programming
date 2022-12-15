@@ -2,8 +2,6 @@
 
 /**
  * print_alphabet - Prints alphabets 
- *
- * Return: Nothing
  */
 void print_alphabet(void)
 {
