@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * isalpha - Checks whether c is a letter
