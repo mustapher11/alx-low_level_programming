@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - Returns 1 if c is a letter
+ * _isalpha - Returns 1 if c is a letter
  * @c: Integer to be checked
  * Return: Either for uppercase or lowercase letters. Otherwise returns 0
  */
