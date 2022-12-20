@@ -5,7 +5,7 @@
  * _puts2 - Prints even numbers in the string
  * @str: The string to be printed
  */
-void _puts2(char *str)
+void puts2(char *str)
 {
 int i;
 int j = strlen(str);
