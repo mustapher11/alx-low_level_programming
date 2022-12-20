@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * _puts2 - Prints even numbers in the string
+ * puts2 - Prints even numbers in the string
  * @str: The string to be printed
  */
 void puts2(char *str)
