@@ -5,6 +5,7 @@
  * reverse_array - Function to reverse contents of an array
  * @a: The array
  * @n: Number of array contents
+ * Return: Nothing
  */
 void reverse_array(int *a, int n)
 {
@@ -15,4 +16,5 @@ printf("%d", a[i]);
 if (i != 0)
 printf(", ");
 }
+printf("\n");
 }
